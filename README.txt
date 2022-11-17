@@ -1,4 +1,4 @@
-Code to run experiments from Secure Domain Adaptation with Multiple Sources.
+Code for our paper Secure Domain Adaptation with Multiple Choices. 
 
 Our code builds on the implementations in https://sites.google.com/view/simpal 
 (Your Classifier can Secretly Suffice Multi-Source Domain Adaptation)
