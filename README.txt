@@ -1,5 +1,16 @@
 Code for our paper Secure Domain Adaptation with Multiple Choices. 
 
+If you find our codebase relevant in your work, please consider citing our paper at
+```
+@article{stan2022secure,
+	title={Secure Domain Adaptation with Multiple Sources},
+	author={Serban Stan and Mohammad Rostami},
+	journal={Transactions on Machine Learning Research},
+	year={2022},
+	url={https://openreview.net/forum?id=UDmH3HxxPp}
+}
+```
+
 Our code builds on the implementations in https://sites.google.com/view/simpal 
 (Your Classifier can Secretly Suffice Multi-Source Domain Adaptation)
 ,https://github.com/jindongwang/transferlearning (Transfer Learning),
